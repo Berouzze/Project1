@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var numbers int
-	maxNumber := 0
+	var maxNumber int = 0
 	for c := 0; c < 3; c++ {
 		fmt.Scan(&numbers) // Введите свои числа
 		if numbers > maxNumber {
