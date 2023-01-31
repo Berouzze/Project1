@@ -12,4 +12,13 @@ func main() {
 		}
 	}
 	fmt.Println(maxNumber) // Вывод максимального числа
+
+	var number int
+	var multiplication int
+	fmt.Scan(&number)
+	for c := 0; c < number; c++ {
+		multiplication *= c
+	}
+
+	fmt.Print(multiplication)
 }
