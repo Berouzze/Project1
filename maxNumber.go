@@ -17,7 +17,7 @@ func main() {
 	var multiplication int
 	fmt.Scan(&number)
 	for c := 0; c < number; c++ {
-		multiplication *= c
+		multiplication = multiplication * c
 	}
 
 	fmt.Print(multiplication)
