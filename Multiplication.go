@@ -7,8 +7,10 @@ func main() {
 	var maxNumber int = 0
 	var multiplication int = 1
 
+	fmt.Print("Введите 3 своих числа:")
+
 	for c := 0; c < 3; c++ {
-		fmt.Scan("Введите 3 своих числа", &numbers) // Введите свои числа
+		fmt.Scan(&numbers) // Введите свои числа
 		if numbers > maxNumber {
 			maxNumber = numbers
 		}
