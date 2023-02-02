@@ -3,11 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	var numbers int
-	var maxNumber int = 0
+	var numbers, maxNumber int
+
 	var multiplication int = 1
 
-	fmt.Print("Введите 3 своих числа:")
+	fmt.Print("Введите своих числа: ")
 
 	for c := 0; c < 3; c++ {
 		fmt.Scan(&numbers) // Введите свои числа
@@ -20,5 +20,5 @@ func main() {
 		multiplication *= c
 	}
 
-	fmt.Print("Ответ ", multiplication) // Ответ
+	fmt.Print("Ответ ", multiplication) // Ответ на задачу
 }
