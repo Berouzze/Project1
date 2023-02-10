@@ -1,0 +1,15 @@
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.csproj.AssemblyReference.cache
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.AssemblyInfoInputs.cache
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.AssemblyInfo.cs
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.csproj.CoreCompileInputs.cache
+F:\Project1\MyApp\Task_1\HomeTasks\bin\Debug\net7.0\HomeTasks.exe
+F:\Project1\MyApp\Task_1\HomeTasks\bin\Debug\net7.0\HomeTasks.deps.json
+F:\Project1\MyApp\Task_1\HomeTasks\bin\Debug\net7.0\HomeTasks.runtimeconfig.json
+F:\Project1\MyApp\Task_1\HomeTasks\bin\Debug\net7.0\HomeTasks.dll
+F:\Project1\MyApp\Task_1\HomeTasks\bin\Debug\net7.0\HomeTasks.pdb
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.dll
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\refint\HomeTasks.dll
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.pdb
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\HomeTasks.genruntimeconfig.cache
+F:\Project1\MyApp\Task_1\HomeTasks\obj\Debug\net7.0\ref\HomeTasks.dll
